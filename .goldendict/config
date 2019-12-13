@@ -57,7 +57,9 @@
   <website id="087a6d65615fb047f4c80eef0a9465db" inside_iframe="1" name="Michaelis (Pt-En)" url="http://michaelis.uol.com.br/moderno/ingles/index.php?lingua=portugues-ingles&amp;palavra=%GDISO1%" enabled="0" icon=""/>
  </websites>
  <dictservers/>
- <programs/>
+ <programs>
+  <program enabled="1" type="0" id="d8f6eb357aeb86b1756886468f8bbb23" name="英文發音" icon="" commandLine="/home/pi/.goldendict/programs/SayEnglish.sh %GDWORD%"/>
+ </programs>
  <voiceEngines/>
  <mutedDictionaries/>
  <popupMutedDictionaries/>
