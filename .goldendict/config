@@ -4,6 +4,10 @@
  </paths>
  <sounddirs/>
  <dictionaryOrder id="0" name="">
+  <dictionary name="英文發音">d8f6eb357aeb86b1756886468f8bbb23</dictionary>
+  <dictionary name="21世紀英漢漢英雙向詞典">de21b2e6c346a86dcbb207e75c66d875</dictionary>
+  <dictionary name="CDICT國語辭典">ceceadffae0966d1f07019398e4e662d</dictionary>
+  <dictionary name="Chinese Wikipedia">b9dd9ab33914cc6c1c6b498c63cbd847</dictionary>
   <mutedDictionaries/>
  </dictionaryOrder>
  <inactiveDictionaries id="0" name="">
